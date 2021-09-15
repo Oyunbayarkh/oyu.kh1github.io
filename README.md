@@ -1,2 +1,2 @@
-# oyu.kh1github.io
+# oyukh.github.io
 intro
